@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:lts
+FROM node:11
 USER root
 
 RUN mkdir -p /tmp/download && \
