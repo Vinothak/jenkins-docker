@@ -1,2 +1,2 @@
 # Jenkins docker
-* Jenkins CI with docker client
+* Jenkins CI with docker client updated
