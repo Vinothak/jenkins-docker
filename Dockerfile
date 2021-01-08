@@ -1,4 +1,4 @@
-FROM node:11
+FROM jenkins
 USER root
 
 RUN mkdir -p /tmp/download && \
